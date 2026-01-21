@@ -1,0 +1,69 @@
+﻿l_korean:
+ azur_legacy_track_name: "미속전진"
+ azur_legacy_track_desc: "온갖 조직들이 서로 암살을 일삼는 가문 내에서, 소녀들의 유쾌한 공동 생활이 곧 시작됩니다!"
+ 
+ azur_legacy_1_name: "거울에 비친 이색"
+ azur_legacy_2_name: "거울 해역"
+ azur_legacy_3_name: "폭풍전야"
+ azur_legacy_4_name: "부흥의 찬송가"
+ azur_legacy_5_name: "어둠 속의 귀로"
+ 
+ azur_legacy_1_modifier: "거울에 비친 이색"
+ azur_legacy_2_modifier: "거울 해역"
+ azur_legacy_3_modifier: "폭풍전야"
+ azur_legacy_4_modifier: "부흥의 찬송가"
+ azur_legacy_5_modifier: "어둠 속의 귀로"
+ 
+ azur_legacy_1_effect: "획득하는 $kansen$이 더 뛰어난 내정 능력을 가집니다."
+ azur_legacy_2_effect: "획득하는 $kansen$이 더 뛰어난 군사 능력을 가집니다."
+ azur_legacy_3_effect: "획득하는 $kansen$이 더 뛰어난 기량을 가집니다."
+ azur_legacy_4_effect: "가문의 $kansen$ 자녀가 태어날 때 더 좋은 축복을 받습니다."
+ azur_legacy_5_effect: "획득하는 $kansen$이 더 좋은 교육 특성을 가집니다."
+ 
+ azur_legacy_1_effect_decc: "획득하는 $kansen$이 더 뛰어난 내정 능력을 가집니다."
+ azur_legacy_2_effect_decc: "획득하는 $kansen$이 더 뛰어난 군사 능력을 가집니다."
+ azur_legacy_3_effect_decc: "획득하는 $kansen$이 더 뛰어난 기량을 가집니다."
+ azur_legacy_4_effect_decc: "가문의 $kansen$ 자녀가 태어날 때 더 좋은 축복을 받습니다."
+ azur_legacy_5_effect_decc: "획득하는 $kansen$이 더 좋은 교육 특성을 가집니다."
+ 
+ azur_al_legacy_track_name: "벽람항로"
+ azur_al_legacy_track_desc: "세이렌의 기술을 사용한다면, 우리가 얻는 것은 인간을 닮은 세이렌일 뿐입니다!"
+ 
+ al_azur_legacy_1_name: "평화의 포용"
+ al_azur_legacy_2_name: "민주주의의 병기고"
+ al_azur_legacy_3_name: "추락한 날개"
+ al_azur_legacy_4_name: "군수 전쟁"
+ al_azur_legacy_5_name: "황금 함대"
+ 
+ azur_ra_legacy_track_name: "적색중축"
+ azur_ra_legacy_track_desc: "남은 도마 위의 고기요, 나는 칼과 도마로다! (내가 먹지 않으면 먹힌다!)"
+ 
+ ra_azur_legacy_1_name: "월월화수목금금"
+ ra_azur_legacy_2_name: "늑대 무리의 잠항"
+ ra_azur_legacy_3_name: "사르데냐 요새"
+ ra_azur_legacy_4_name: "적색중축 통치 하의 평화"
+ ra_azur_legacy_5_name: "9단 요격"
+ 
+ al_azur_legacy_1_modifier: "평화의 포용"
+ al_azur_legacy_2_modifier: "민주주의의 병기고"
+ al_azur_legacy_3_modifier: "추락한 날개"
+ al_azur_legacy_4_modifier: "군수 전쟁"
+ al_azur_legacy_5_modifier: "황금 함대?"
+ 
+ al_azur_legacy_1_effect: "우리는 평화적인 수단을 통해 힘을 비축할 것입니다."
+ al_azur_legacy_2_effect: "양이야말로 최고의 질입니다."
+ al_azur_legacy_3_effect: "로열 네이비처럼 우아하게."
+ al_azur_legacy_4_effect: "전장에서는 평소보다 더 좋은 음식을 먹어야 합니다."
+ al_azur_legacy_5_effect: "누가 함대를 호출하였는가."
+ 
+ ra_azur_legacy_1_modifier: "월월화수목금금"
+ ra_azur_legacy_2_modifier: "늑대 무리의 잠항"
+ ra_azur_legacy_3_modifier: "사르데냐 요새"
+ ra_azur_legacy_4_modifier: "적색중축 통치 하의 평화"
+ ra_azur_legacy_5_modifier: "9단 요격"
+ 
+ ra_azur_legacy_1_effect: "병사들을 매일 996으로 훈련시켜야 최강의 군대를 얻을 수 있습니다"
+ ra_azur_legacy_2_effect: "어떠한 보급품도 런던으로 보낼 수 없다. 만약 그렇다면, 내 이름은——"
+ ra_azur_legacy_3_effect: "시칠리아의 요새는 절대 침몰하지 않는다."
+ ra_azur_legacy_4_effect: "적색중축의 통치는 매우 공포스럽지만, 완전히 공포스럽지는 않습니다."
+ ra_azur_legacy_5_effect: "결전의 장소는 우리가 정한다."

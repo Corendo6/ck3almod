@@ -1,0 +1,79 @@
+﻿l_korean:
+ decision_group_type_holding: "[holdings|E] 및 [buildings|E] 결단"
+ decision_group_type_country_and_de_jure: "국가 형성 및 권역(De jure) 결단"
+ decision_group_type_faith: "[faith|E] 결단"
+ decision_group_type_government: "[government|E] 결단"
+ decision_group_type_war: "[war|E] 결단"
+ decision_group_type_culture_innovation: "[culture|E] 및 [innovations|E] 결단"
+ decision_group_type_artifact: "[artifacts|E] 결단"
+ tradition_hunjian_placeholder: ""
+ tradition_hunjian_placeholder_desc: ""
+ somnia: "솜니아"
+
+ IS_SHIP_WOMEN: "일종의 함선 소녀임"
+ IS_NOT_SHIP_WOMEN: "$IS_SHIP_WOMEN$이 아님"
+ I_AM_SHIP_WOMEN: "당신은 $IS_SHIP_WOMEN$"
+ I_AM_NOT_SHIP_WOMEN: "당신은 $IS_NOT_SHIP_WOMEN$"
+ CHARACTER_IS_SHIP_WOMEN: "[CHARACTER.GetShortUIName|U](은)는 $IS_SHIP_WOMEN$"
+ CHARACTER_IS_NOT_SHIP_WOMEN: "[CHARACTER.GetShortUIName|U](은)는 $IS_NOT_SHIP_WOMEN$"
+
+ reason_resurrection: "[CHARACTER.GetShortUIName|U]와 [TARGET_CHARACTER.GetShortUIName](은)는 이전의 관계를 계승했습니다."
+
+ TRAIT_FLAG_DESC_ship_fake_immortal: "특수한 의장 수명 메커니즘을 따름"
+ TRAIT_FLAG_DESC_dolls_fake_immortal: "특수한 마모 수명 메커니즘을 따름"
+
+ maid_handbook: "메이드 선택"
+ select_maid_get: "이 메이드를 획득하기로 선택"
+
+ debug_spawn_waifu_decision: "#B 콘솔 결단 #!캐릭터 생성 디버그"
+ debug_spawn_waifu_decision_tooltip: "옵션에 따라 특정 캐릭터를 생성하여 일러스트 문제를 확인합니다."
+ debug_spawn_waifu_decision_desc: "옵션에 따라 특정 캐릭터를 생성하여 일러스트 문제를 확인합니다."
+ debug_spawn_waifu_decision_confirm: "캐릭터 직접 선택"
+
+ hunjian.9999.t: "결단 유형 직접 선택"
+ hunjian.9999.desc: "어떤 유형의 캐릭터를 테스트하시겠습니까?"
+ hunjian.9999.a: "$warshipgirl$"
+ hunjian.9999.b: "벽람항로의 $kansen$"
+ hunjian.9999.c: "소녀전선의 $tactics_dolls$"
+ hunjian.9999.d: "메이드 나라의 $maid$"
+ hunjian.9999.e: "$blue_archive$의 $ba_student$"
+ hunjian.9999.f: "명일방주의 오퍼레이터"
+ hunjian.9999.g: "$uma_musume$"
+
+ SET_COUNTY_COUNCIL_TASK_EFFECT_PROVINCE: "[PROVINCE.GetName|V]에서 $TYPE|V$ 임무 시작"
+ BECOME_MY_ASSIGN_COUNCILLOR_TYPE: "[TARGET_CHARACTER.GetUIName](이)가 당신의 $TYPE|V$(이)가 됨"
+# GUI
+ show_all_trait_tooltip: "[Character.GetNameNoTooltip]의 트레잇 인터페이스를 확장하여 캐릭터의 특성을 더 편리하게 확인할 수 있습니다."
+ birth_death_info_tooltip: "[Character.GetFullNameNicknamedPossessiveNoTooltipRegnal|U] [Character.GetLadyLord], [Character.GetDynastyName][dynasty|E] 가문 출신 [Character.GetHouse.GetName][house|E], [Character.GetCulture.GetName] [Character.GetFaith.GetAdherentNamePlural]. [Character.GetBirthDate.GetString] 출생, [Character.GetDeathDate.GetString] 사망, [Character.GetDeathReason|U], 향년 [Character.GetAge]세"
+
+ k_hunjian_placeholder: ""
+ k_hunjian_placeholder_adj: ""
+
+ rule_hunjian_intro_events: "2D 캐릭터: 소개 이벤트"
+ setting_hunjian_intro_events_shown: "표시"
+ setting_hunjian_intro_events_shown_desc: "실질적인 내용이 없는 소개 이벤트를 숨기지 않습니다."
+ setting_hunjian_intro_events_hidden: "숨김"
+ setting_hunjian_intro_events_hidden_desc: "일부 모드의 소개 이벤트를 숨기고 결과를 즉시 실행합니다. 단, 선택이 필요한 이벤트는 여전히 발생합니다."
+
+ TRANSFER_MAA_ALL: "[CHARACTER.GetFirstNameOrMe](이)가 모든 [men_at_arms|E](을)를 [TARGET_CHARACTER.GetFirstNameOrMe]에게 양도함"
+ TRANSFERED_MAA_ALL: "[CHARACTER.GetFirstNameOrMe](이)가 모든 [men_at_arms|E](을)를 [TARGET_CHARACTER.GetFirstNameOrMe]에게 양도했습니다"
+ TRANSFER_MAA: "[REGIMENT.GetName](을)를 [TARGET_CHARACTER.GetFirstNameOrMe]에게 양도함"
+ TRANSFERED_MAA: "[REGIMENT.GetName](을)를 [TARGET_CHARACTER.GetFirstNameOrMe]에게 양도했습니다"
+ TRANSFER_TITLE_ALL: "[CHARACTER.GetFirstNameOrMe](이)가 모든 [landed|E] [titles|E](을)를 [TARGET_CHARACTER.GetFirstNameOrMe]에게 양도함"
+ TRANSFERED_TITLE_ALL: "[CHARACTER.GetFirstNameOrMe](이)가 모든 [landed|E] [titles|E](을)를 [TARGET_CHARACTER.GetFirstNameOrMe]에게 양도했습니다"
+
+ laamp_upgraded_title_name: "[char_primary_title.GetNameNoTooltip|U]"
+ laamp_upgraded_title_adj: "[char_primary_title.GetAdjectiveNoTooltip|U]"
+
+ kingdom_landless_adventurer_camp_male: "대단장"
+ kingdom_landless_adventurer_camp_female: "대단장"
+ empire_landless_adventurer_camp_male: "전설적인 지도자"
+ empire_landless_adventurer_camp_female: "전설적인 지도자"
+
+ hunjian_setting_interaction: "혼함 공용 라이브러리: 기능 설정"
+ hunjian_setting_interaction_desc: "자동 맞춤 유전 특성 및 일러스트 선택, 자동 서약 설정 등 모드의 부가 기능을 재설정합니다."
+ player_love_setting_option: "서약 기본 옵션 재설정"
+ clone_type_setting_option: "로마 병원: $waifu$ 유형 선택"
+ clone_gene_setting_option: "로마 병원: 유전자 최적화"
+ clone_portrait_setting_option: "로마 병원: $waifu$ 일러스트 선택"
+ hunjian_setting_outro: "\n자신의 캐릭터를 우클릭하고 $hunjian_setting_interaction$ [interaction|E](을)를 선택하여 재설정할 수 있습니다."
