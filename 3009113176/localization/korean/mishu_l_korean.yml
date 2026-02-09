@@ -61,3 +61,4 @@
  ARKSecretaryDialogue: "[ROOT.Char.Custom2('GetARKDialogue', second)]"
  KANSENSecretaryDialogue: "[ROOT.Char.Custom2('GetKANSENDialogue', second)]"
  GFSecretaryDialogue: "[ROOT.Char.Custom2('GetTacticsDollDialogue', second)]"
+ WSGMISCSecretaryDialogue: "[ROOT.Char.Custom2('GetWSGMISCSDialogue', second)]"
